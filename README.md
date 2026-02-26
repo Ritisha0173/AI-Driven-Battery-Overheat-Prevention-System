@@ -1,9 +1,9 @@
 # AI-Driven-Battery-Overheat-Prevention-System
-**Problem Statement:**
+# Problem Statement:
 Electric vehicles in India are facing increasing incidents of battery overheating and thermal runaway, particularly in hot weather conditions and during charging. Most low-cost EVs rely on basic Battery Management Systems (BMS) that only provide reactive alerts after the temperature crosses dangerous limits, leaving little time for preventive action. These battery fires pose serious safety risks to riders, families, and communities, especially in homes and crowded parking areas. They also cause financial loss to delivery workers and small business owners who depend on EVs for livelihood. There is a need for an affordable predictive system that can detect overheating risks in advance and prevent fire incidents before they occur.
 
-**Objective:**
+# Objective:
 The objective of this project is to develop a low-cost AI-driven battery overheat prediction system that can forecast thermal risk 5–10 minutes before it becomes critical. The system continuously monitors voltage and current data, processes it using a lightweight AI model, and provides immediate alerts through a buzzer and LED. It operates completely offline and is powered by a small solar panel to avoid draining the main EV battery. The solution aims to enhance safety, improve reliability, and make advanced battery protection accessible to mass-market EV users.
 
-**Novelty:**
+# Novelty:
 The uniqueness of this project lies in its predictive approach rather than a reactive one. Unlike traditional BMS systems that warn only after overheating starts, this system uses AI to anticipate risk in advance. It combines solar-powered operation with offline functionality, ensuring reliability even in remote areas. The solution is designed to be implemented at a very low cost, making advanced battery safety affordable for entry-level EVs. By integrating AI prediction and sustainable power in a compact device, the system offers a practical and scalable innovation for the Indian EV ecosystem.
