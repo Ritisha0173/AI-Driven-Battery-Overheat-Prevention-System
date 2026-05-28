@@ -7,3 +7,5 @@ The objective of this project is to develop a low-cost AI-driven battery overhea
 
 # Novelty:
 The uniqueness of this project lies in its predictive approach rather than a reactive one. Unlike traditional BMS systems that warn only after overheating starts, this system uses AI to anticipate risk in advance. It combines solar-powered operation with offline functionality, ensuring reliability even in remote areas. The solution is designed to be implemented at a very low cost, making advanced battery safety affordable for entry-level EVs. By integrating AI prediction and sustainable power in a compact device, the system offers a practical and scalable innovation for the Indian EV ecosystem.
+
+<img width="900" height="1600" alt="Image" src="https://github.com/user-attachments/assets/edb23096-f599-4a56-9463-f2acd452cb5e" />
